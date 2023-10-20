@@ -1,0 +1,24 @@
+.cardContainer{
+    display: flex;
+    gap: 4rem;
+    background-color: aqua;
+    margin-bottom: 2rem;
+    width: 50rem;
+    border-radius: 20px;
+    overflow-x: hidden;
+
+}
+
+.imageContainer{
+    overflow-x: hidden;
+
+}
+
+.image{
+    overflow-x: hidden;
+
+}
+
+.text{
+    text-align: left;
+}
